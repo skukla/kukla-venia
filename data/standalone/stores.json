@@ -1,0 +1,17 @@
+{
+    "data": {
+        "storeConfig": {
+            "is_default_view": true,
+            "is_default_store": false,
+            "root_category_id": 42,
+            "root_category_uid": "NDI=",
+            "store_view_code": "default",
+            "store_code": "main_website_store",
+            "view_order": 10,
+            "site_code": "base",
+            "store_root_category": "Default Category",
+            "theme": "MagentoEse/venia_datapack",
+            "theme_fallback": "MagentoEse/venia"
+        }
+    }
+}

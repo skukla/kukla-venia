@@ -1,0 +1,10 @@
+{
+    "data": {
+        "dataInstallerStoreSettings": {
+            "store_code": "venia_store",
+            "store_view_code": "venia_us",
+            "site_code": "base",
+            "restrict_products_from_views": "Y"
+        }
+    }
+}

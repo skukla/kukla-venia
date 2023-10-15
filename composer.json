@@ -1,0 +1,17 @@
+{
+  "name": "kukla/vertical-data-venia",
+  "description": "A variant of the Venia brand by Steve Kukla",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "MIT"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Kukla\\Venia\\": ""
+    },
+    "files": [
+      "registration.php"
+    ]
+  }
+}

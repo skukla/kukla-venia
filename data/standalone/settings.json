@@ -1,0 +1,9 @@
+{
+    "data": {
+        "dataInstallerStoreSettings": {
+            "store_code": "main_website_store",
+            "store_view_code": "default",
+            "site_code": "base"
+        }
+    }
+}
