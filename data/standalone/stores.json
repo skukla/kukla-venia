@@ -10,7 +10,7 @@
             "view_order": 10,
             "site_code": "base",
             "store_root_category": "Default Category",
-            "theme": "Kukla/venia_datapack",
+            "theme": "MagentoEse/venia_datapack",
             "theme_fallback": "MagentoEse/venia"
         }
     }
