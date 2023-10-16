@@ -13,7 +13,7 @@
             "site_code": "venia",
             "site_name": "Venia Website",
             "store_root_category": "Venia Catalog",
-            "theme": "MagentoEse/venia_datapack",
+            "theme": "Kukla/venia_datapack",
             "theme_fallback": "MagentoEse/venia"
         }
     }
