@@ -1,5 +1,5 @@
 {
-	"name": "magentoese/theme-frontend-venia-datapack",
+	"name": "kukla/theme-frontend-venia-datapack",
 	"type": "magento2-theme",
 	"require": {
 		"magento/theme-frontend-blank": "100.4.*",
