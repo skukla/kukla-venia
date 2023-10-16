@@ -1,0 +1,68 @@
+{
+  "data": {
+    "storeConfigurations": {
+      "items": [
+        {
+          "path": "general/store_information/name",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "Venia"
+        },
+        {
+          "path": "design/head/shortcut_icon",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "stores/venia-favicon.png"
+        },
+        {
+          "path": "design/header/logo_src",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "stores/1/venia-logo.png"
+        },
+        {
+          "path": "design/header/logo_width",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "130"
+        },
+        {
+          "path": "design/header/logo_height",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "64"
+        },
+        {
+          "path": "design/header/welcome",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": ""
+        },
+        {
+          "path": "general/locale/code",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "en_US"
+        },
+        {
+          "path": "currency/options/default",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "USD"
+        },
+        {
+          "path": "currency/options/allow",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "USD"
+        },
+        {
+          "path": "web/default/cms_home_page",
+          "scope": "stores",
+          "scope_code": "default",
+          "value": "home"
+        }
+      ]
+    }
+  }
+}

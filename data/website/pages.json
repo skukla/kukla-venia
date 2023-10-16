@@ -3,7 +3,7 @@
     "cmsPages": {
       "items": [
         {
-          "store_view_code": "default",
+          "store_view_code": "venia_us",
           "identifier": "home",
           "title": "Home Page - Venia",
           "page_layout": "cms-full-width",
