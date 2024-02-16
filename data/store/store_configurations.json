@@ -1,0 +1,128 @@
+{
+  "data": {
+    "storeConfigurations": {
+      "items": [
+        {
+          "path": "design/header/logo_src",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "stores/1/logo.png"
+        },
+        {
+          "path": "design/header/logo_width",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "130"
+        },
+        {
+          "path": "design/header/logo_height",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "64"
+        },
+        {
+          "path": "design/head/shortcut_icon",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "stores/1/favicon.png"
+        },
+        {
+          "path": "design/email/logo",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "stores/1/logo.png"
+        },
+        {
+          "path": "general/store_information/country_id",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "US"
+        },
+        {
+          "path": "general/store_information/region_id",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "12"
+        },
+        {
+          "path": "general/store_information/postcode",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "90016"
+        },
+        {
+          "path": "general/store_information/city",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "Los Angeles"
+        },
+        {
+          "path": "general/store_information/street_line1",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "3640 Holdrege Ave"
+        },
+        {
+          "path": "general/locale/code",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "en_US"
+        },
+        {
+          "path": "currency/options/default",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "USD"
+        },
+        {
+          "path": "currency/options/allow",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "USD"
+        },
+        {
+          "path": "general/store_information/name",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "Venia"
+        },
+        {
+          "path": "general/store_information/phone",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "310-945-0345"
+        },
+        {
+          "path": "general/store_information/hours",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "9AM - 5PM"
+        },
+        {
+          "path": "shipping/origin/city",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "Los Angeles"
+        },
+        {
+          "path": "shipping/origin/street_line1",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "3640 Holdrege Ave"
+        },
+        {
+          "path": "shipping/origin/postcode",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "90016"
+        },
+        {
+          "path": "web/default/cms_home_page",
+          "scope": "stores",
+          "scope_code": "venia_us",
+          "value": "venia-home"
+        }
+      ]
+    }
+  }
+}

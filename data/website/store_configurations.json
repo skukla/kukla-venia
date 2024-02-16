@@ -5,163 +5,163 @@
         {
           "path": "btob/website_configuration/company_active",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "0"
         },
         {
           "path": "btob/website_configuration/negotiablequote_active",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "0"
         },
         {
           "path": "btob/website_configuration/quickorder_active",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "0"
         },
         {
           "path": "btob/website_configuration/requisition_list_active",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "0"
         },
         {
           "path": "btob/default_b2b_payment_methods/applicable_payment_methods",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "0"
         },
         {
           "path": "btob/default_b2b_payment_methods/applicable_payment_methods",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "0"
         },
         {
           "path": "design/header/welcome",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": ""
         },
         {
           "path": "design/header/logo_src",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "websites/1/logo.png"
         },
         {
           "path": "design/header/logo_width",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "130"
         },
         {
           "path": "design/header/logo_height",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "64"
         },
         {
           "path": "design/head/shortcut_icon",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "websites/1/favicon.png"
         },
         {
           "path": "design/email/logo",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "websites/1/logo.png"
         },
         {
           "path": "general/store_information/country_id",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "US"
         },
         {
           "path": "general/store_information/region_id",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "12"
         },
         {
           "path": "general/store_information/postcode",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "90016"
         },
         {
           "path": "general/store_information/city",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "Los Angeles"
         },
         {
           "path": "general/store_information/street_line1",
           "scope": "websites",
-          "scope_code": "base",
+          "scope_code": "venia",
           "value": "3640 Holdrege Ave"
         },
         {
           "path": "general/locale/code",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "venia_us",
           "value": "en_US"
         },
         {
           "path": "currency/options/default",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "venia_us",
           "value": "USD"
         },
         {
           "path": "currency/options/allow",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "venia_us",
           "value": "USD"
         },
         {
           "path": "general/store_information/name",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "venia_us",
           "value": "Venia"
         },
         {
           "path": "general/store_information/phone",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "venia_us",
           "value": "310-945-0345"
         },
         {
           "path": "general/store_information/hours",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "venia_us",
           "value": "9AM - 5PM"
         },
         {
           "path": "shipping/origin/city",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "venia_us",
           "value": "Los Angeles"
         },
         {
           "path": "shipping/origin/street_line1",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "venia_us",
           "value": "3640 Holdrege Ave"
         },
         {
           "path": "shipping/origin/postcode",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "venia_us",
           "value": "90016"
         },
         {
           "path": "web/default/cms_home_page",
           "scope": "stores",
-          "scope_code": "default",
+          "scope_code": "venia_us",
           "value": "venia-home"
         }
       ]

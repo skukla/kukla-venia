@@ -4,7 +4,7 @@
       "items": [
         {
           "store_view_code": "venia_us",
-          "identifier": "home",
+          "identifier": "venia-home",
           "title": "Home Page - Venia",
           "page_layout": "cms-full-width",
           "content_heading": "",
