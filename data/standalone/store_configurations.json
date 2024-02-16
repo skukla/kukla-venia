@@ -48,7 +48,7 @@
           "path": "design/header/logo_src",
           "scope": "websites",
           "scope_code": "base",
-          "value": "websites/1/logo.png"
+          "value": "websites/1/venia-logo.png"
         },
         {
           "path": "design/header/logo_width",
@@ -66,13 +66,13 @@
           "path": "design/head/shortcut_icon",
           "scope": "websites",
           "scope_code": "base",
-          "value": "websites/1/favicon.png"
+          "value": "websites/1/venia-favicon.png"
         },
         {
           "path": "design/email/logo",
           "scope": "websites",
           "scope_code": "base",
-          "value": "websites/1/logo.png"
+          "value": "websites/1/venia-logo.png"
         },
         {
           "path": "general/store_information/country_id",
