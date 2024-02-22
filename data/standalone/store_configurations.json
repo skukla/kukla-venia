@@ -162,7 +162,7 @@
           "path": "web/default/cms_home_page",
           "scope": "stores",
           "scope_code": "default",
-          "value": "venia-home"
+          "value": "home"
         }
       ]
     }
