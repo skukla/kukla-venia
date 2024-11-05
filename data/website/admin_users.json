@@ -1,0 +1,16 @@
+{
+  "data": {
+    "adminUsers": {
+      "items": [
+        {
+          "email": "hannah.smith@venia.com",
+          "firstname": "Hannah",
+          "lastname": "Smith",
+          "password": "Password1",
+          "role": "Customer Service Representative",
+          "username": "hannah.smith"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "adminRoles": {
+      "items": [
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_AdvancedCheckout::magento_advancedcheckout"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_AdvancedCheckout::update"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_AdvancedCheckout::view"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::additional_cache_management"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::admin"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::cache"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::dashboard"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::flush_cache_storage"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::flush_catalog_images"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::flush_js_css"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::flush_magento_cache"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::flush_static_files"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::global_search"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::main_actions"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::mass_actions"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::myaccount"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::refresh_cache_type"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::system"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::toggling_cache_type"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Backend::tools"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Cart::cart"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Cart::manage"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Catalog::catalog"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Catalog::catalog_inventory"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Catalog::categories"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Catalog::products"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_CatalogPermissions::catalog_magento_catalogpermissions"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Customer::actions"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Customer::customer"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Customer::delete"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Customer::group"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Customer::invalidate_tokens"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Customer::manage"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Customer::online"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Customer::reset_password"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_CustomerSegment::customersegment"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_CustomerSegment::segment"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_LoginAsCustomer::allow_shopping_assistance"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_LoginAsCustomer::login"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_LoginAsCustomerLog::login_log"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_MultipleWishlist::wishlist"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Paypal::authorization"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_PricePermissions::read_product_price"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reports::abandoned"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reports::accounts"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reports::customers"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reports::customers_orders"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reports::product"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reports::report"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reports::report_marketing"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reports::shopcart"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reports::totals"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reward::reward_balance"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Reward::reward_spend"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Rma::magento_rma"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::actions"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::actions_edit"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::actions_view"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::cancel"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::capture"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::comment"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::create"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::creditmemo"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::email"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::emails"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::hold"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::invoice"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::reorder"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::review_payment"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::sales"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::sales_creditmemo"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::sales_invoice"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::sales_operation"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::sales_order"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::ship"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::shipment"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::transactions"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::transactions_fetch"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_Sales::unhold"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_SalesArchive::add"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_SalesArchive::archive"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_SalesArchive::creditmemos"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_SalesArchive::invoices"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_SalesArchive::orders"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_SalesArchive::remove"
+        },
+        {
+          "role": "Customer Service Representative",
+          "resource_id": "Magento_SalesArchive::shipments"
+        }
+      ]
+    }
+  }
+}
