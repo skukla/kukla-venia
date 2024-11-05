@@ -39,6 +39,126 @@
           "value": "0"
         },
         {
+          "path": "magentoese_autofill/general/enable_autofill",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "1"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/enable",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "1"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/label",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "Sharon Reynolds"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/email_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "sharon@example.com"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/password_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "Password1"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/firstname_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "Sharon"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/lastname_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "Reynolds"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/company_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": ""
+        },
+        {
+          "path": "magentoese_autofill/persona_1/address_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "3640 Holdrege Ave"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/country_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "US"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/state_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "12"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/city_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "Los Angeles"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/zip_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "90016"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/telephone_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": ""
+        },
+        {
+          "path": "magentoese_autofill/persona_1/fax_value",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": ""
+        },
+        {
+          "path": "magentoese_autofill/persona_1/cc_type",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "VI"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/cc_number",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "4111111111111111"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/cc_month",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "1"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/cc_year",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "2030"
+        },
+        {
+          "path": "magentoese_autofill/persona_1/cc_verification_number",
+          "scope": "websites",
+          "scope_code": "venia",
+          "value": "123"
+        },
+        {
           "path": "design/header/welcome",
           "scope": "websites",
           "scope_code": "venia",
