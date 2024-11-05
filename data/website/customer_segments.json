@@ -1,0 +1,15 @@
+{
+  "data": {
+    "customerSegments": {
+      "items": [
+        {
+          "name": "First Time Purchasers",
+          "apply_to": "0",
+          "conditions_serialized": "{\"type\":\"Magento\\\\CustomerSegment\\\\Model\\\\Segment\\\\Condition\\\\Combine\\\\Root\",\"attribute\":null,\"operator\":null,\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"all\",\"conditions\":[{\"type\":\"Magento\\\\CustomerSegment\\\\Model\\\\Segment\\\\Condition\\\\Sales\\\\Ordersnumber\",\"attribute\":\"total\",\"operator\":\">=\",\"value\":\"1\",\"is_value_processed\":null,\"aggregator\":\"any\",\"conditions\":[{\"type\":\"Magento\\\\CustomerSegment\\\\Model\\\\Segment\\\\Condition\\\\Order\\\\Status\",\"attribute\":false,\"operator\":\"==\",\"value\":\"pending\",\"is_value_processed\":false},{\"type\":\"Magento\\\\CustomerSegment\\\\Model\\\\Segment\\\\Condition\\\\Order\\\\Status\",\"attribute\":false,\"operator\":\"==\",\"value\":\"processing\",\"is_value_processed\":false},{\"type\":\"Magento\\\\CustomerSegment\\\\Model\\\\Segment\\\\Condition\\\\Order\\\\Status\",\"attribute\":false,\"operator\":\"==\",\"value\":\"complete\",\"is_value_processed\":false},{\"type\":\"Magento\\\\CustomerSegment\\\\Model\\\\Segment\\\\Condition\\\\Order\\\\Status\",\"attribute\":false,\"operator\":\"==\",\"value\":\"closed\",\"is_value_processed\":false}]}]}",
+          "description": null,
+          "site_code": "venia"
+        }
+      ]
+    }
+  }
+}
