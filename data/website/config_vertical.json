@@ -1,0 +1,105 @@
+{
+  "configuration": {
+    "magentoese_autofill": {
+      "general": {
+        "enable_autofill": {
+          "website": {
+            "venia": "1"
+          }
+        }
+      },
+      "persona_1": {
+        "enable": {
+          "website": {
+            "venia": "1"
+          }
+        },
+        "label": {
+          "website": {
+            "venia": "Sharon Reynolds"
+          }
+        },
+        "email_value": {
+          "website": {
+            "venia": "sharon@example.com"
+          }
+        },
+        "password_value": {
+          "website": {
+            "venia": "Password1"
+          }
+        },
+        "firstname_value": {
+          "website": {
+            "venia": "Sharon"
+          }
+        },
+        "company_value": {
+          "website": {
+            "venia": ""
+          }
+        },
+        "address_value": {
+          "website": {
+            "venia": "3640 Holdrege Ave"
+          }
+        },
+        "country_value": {
+          "website": {
+            "venia": "US"
+          }
+        },
+        "state_value": {
+          "website": {
+            "venia": "12"
+          }
+        },
+        "city_value": {
+          "website": {
+            "venia": "Los Angeles"
+          }
+        },
+        "zip_value": {
+          "website": {
+            "venia": "90016"
+          }
+        },
+        "telephone_value": {
+          "website": {
+            "venia": "310-945-3049"
+          }
+        },
+        "fax_value": {
+          "website": {
+            "venia": ""
+          }
+        },
+        "cc_type": {
+          "website": {
+            "venia": "VI"
+          }
+        },
+        "cc_number": {
+          "website": {
+            "venia": "41111111111111111"
+          }
+        },
+        "cc_month": {
+          "website": {
+            "venia": "1"
+          }
+        },
+        "cc_year": {
+          "website": {
+            "venia": "2029"
+          }
+        },
+        "cc_verification_number": {
+          "website": {
+            "venia": "123"
+          }
+        }
+      }
+    }
+  }
+}
