@@ -13,7 +13,7 @@
         <referenceContainer name="header.container">
             <block class="Magento\Cms\Block\Block" name="promo_banner" before="-">
                 <arguments>
-                    <argument name="block_id" xsi:type="string">promo_banner</argument>
+                    <argument name="block_id" xsi:type="string">promo-banner</argument>
                 </arguments>
             </block>
         </referenceContainer>

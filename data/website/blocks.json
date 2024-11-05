@@ -5,31 +5,31 @@
         {
           "store_view_code": "venia_us",
           "title": "Footer Customer Support Links",
-          "identifier": "footer_links_1",
+          "identifier": "footer-links-1",
           "content": "<style>#html-body [data-pb-style=XOP7VN7]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}</style><div class=\"links\" data-content-type=\"row\" data-appearance=\"full-width\" data-enable-parallax=\"0\" data-parallax-speed=\"0.5\" data-background-images=\"{}\" data-background-type=\"image\" data-video-loop=\"true\" data-video-play-only-visible=\"true\" data-video-lazy-load=\"true\" data-video-fallback-src=\"\" data-element=\"main\" data-pb-style=\"XOP7VN7\"><div class=\"row-full-width-inner\" data-element=\"inner\"><div data-content-type=\"text\" data-appearance=\"default\" data-element=\"main\"><h4>Customer Support</h4>\r\n<ul>\r\n<li id=\"WTIBBJK\"><a tabindex=\"0\" title=\"Track Your Order\" href=\"{{config%20path=&quot;web/secure/base_url&quot;}}customer/account/\">Track Your Order</a></li>\r\n<li><a tabindex=\"0\" title=\"Returns &amp; Exchanges\" href=\"{{config%20path=&quot;web/unsecure/base_url&quot;}}returns\">Returns &amp; Exchanges</a></li>\r\n<li><a tabindex=\"0\" title=\"Store Locator\" href=\"#\">Store Locator</a></li>\r\n</ul></div></div></div>"
         },
         {
           "store_view_code": "venia_us",
           "title": "Footer About Links",
-          "identifier": "footer_links_2",
+          "identifier": "footer-links-2",
           "content": "<style>#html-body [data-pb-style=YS5KRFB]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}</style><div class=\"links\" data-content-type=\"row\" data-appearance=\"full-width\" data-enable-parallax=\"0\" data-parallax-speed=\"0.5\" data-background-images=\"{}\" data-background-type=\"image\" data-video-loop=\"true\" data-video-play-only-visible=\"true\" data-video-lazy-load=\"true\" data-video-fallback-src=\"\" data-element=\"main\" data-pb-style=\"YS5KRFB\"><div class=\"row-full-width-inner\" data-element=\"inner\"><div data-content-type=\"text\" data-appearance=\"default\" data-element=\"main\"><h4>Our Brands</h4>\r\n<ul>\r\n<li><a tabindex=\"0\" href=\"#\">About LUMA</a></li>\r\n<li><a href=\"#\">Shop Venia</a></li>\r\n</ul></div></div></div>"
         },
         {
           "store_view_code": "venia_us",
           "title": "Footer Follow Venia",
-          "identifier": "footer_links_3",
+          "identifier": "footer-links-3",
           "content": "<style>#html-body [data-pb-style=LV2A1W3]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=VOW29HL]{border-style:none}#html-body [data-pb-style=SLEAVY7],#html-body [data-pb-style=WL4RM1H]{max-width:100%;height:auto}@media only screen and (max-width: 768px) { #html-body [data-pb-style=VOW29HL]{border-style:none} }</style><div class=\"links\" data-content-type=\"row\" data-appearance=\"full-width\" data-enable-parallax=\"0\" data-parallax-speed=\"0.5\" data-background-images=\"{}\" data-background-type=\"image\" data-video-loop=\"true\" data-video-play-only-visible=\"true\" data-video-lazy-load=\"true\" data-video-fallback-src=\"\" data-element=\"main\" data-pb-style=\"LV2A1W3\"><div class=\"row-full-width-inner\" data-element=\"inner\"><h4 data-content-type=\"heading\" data-appearance=\"default\" data-element=\"main\">Follow @Venia</h4><figure data-content-type=\"image\" data-appearance=\"full-width\" data-element=\"main\" data-pb-style=\"VOW29HL\"><img class=\"pagebuilder-mobile-hidden\" src=\"{{media url=.renditions/wysiwyg/venia/footer/footer-follow-venia.png}}\" alt=\"\" title=\"\" data-image-dimensions=\"{&quot;height&quot;:105,&quot;width&quot;:105,&quot;ratio&quot;:1}\" data-element=\"desktop_image\" data-pb-style=\"SLEAVY7\"><img class=\"pagebuilder-mobile-only\" src=\"{{media url=.renditions/wysiwyg/venia/footer/footer-follow-venia.png}}\" alt=\"\" title=\"\" data-image-dimensions=\"{&quot;height&quot;:105,&quot;width&quot;:105,&quot;ratio&quot;:1}\" data-element=\"mobile_image\" data-pb-style=\"WL4RM1H\"></figure></div></div>"
         },
         {
           "store_view_code": "venia_us",
           "title": "Footer Store Locator",
-          "identifier": "footer_links_4",
+          "identifier": "footer-links-4",
           "content": "<style>#html-body [data-pb-style=JSKM2IF]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=Y562R84]{border-style:none}#html-body [data-pb-style=PE9QAMR],#html-body [data-pb-style=Y5ULUE0]{max-width:100%;height:auto}@media only screen and (max-width: 768px) { #html-body [data-pb-style=Y562R84]{border-style:none} }</style><div class=\"links\" data-content-type=\"row\" data-appearance=\"full-width\" data-enable-parallax=\"0\" data-parallax-speed=\"0.5\" data-background-images=\"{}\" data-background-type=\"image\" data-video-loop=\"true\" data-video-play-only-visible=\"true\" data-video-lazy-load=\"true\" data-video-fallback-src=\"\" data-element=\"main\" data-pb-style=\"JSKM2IF\"><div class=\"row-full-width-inner\" data-element=\"inner\"><h4 data-content-type=\"heading\" data-appearance=\"default\" data-element=\"main\">Find A Store Near You</h4><figure data-content-type=\"image\" data-appearance=\"full-width\" data-element=\"main\" data-pb-style=\"Y562R84\"><a href=\"/storelocator\" target=\"\" data-link-type=\"default\" title=\"\" data-element=\"link\"><img class=\"pagebuilder-mobile-hidden\" src=\"{{media url=.renditions/wysiwyg/venia/footer/footer-store-locator.png}}\" alt=\"\" title=\"\" data-image-dimensions=\"{&quot;height&quot;:105,&quot;width&quot;:105,&quot;ratio&quot;:1}\" data-element=\"desktop_image\" data-pb-style=\"Y5ULUE0\"><img class=\"pagebuilder-mobile-only\" src=\"{{media url=.renditions/wysiwyg/venia/footer/footer-store-locator.png}}\" alt=\"\" title=\"\" data-image-dimensions=\"{&quot;height&quot;:105,&quot;width&quot;:105,&quot;ratio&quot;:1}\" data-element=\"mobile_image\" data-pb-style=\"PE9QAMR\"></a></figure></div></div>"
         },
         {
           "store_view_code": "venia_us",
           "title": "Footer Links Social",
-          "identifier": "footer_links_social",
+          "identifier": "footer-links-social",
           "content": "<style>#html-body [data-pb-style=JK1X2MU]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}</style><div class=\"social\" data-content-type=\"row\" data-appearance=\"full-width\" data-enable-parallax=\"0\" data-parallax-speed=\"0.5\" data-background-images=\"{}\" data-background-type=\"image\" data-video-loop=\"true\" data-video-play-only-visible=\"true\" data-video-lazy-load=\"true\" data-video-fallback-src=\"\" data-element=\"main\" data-pb-style=\"JK1X2MU\"><div class=\"row-full-width-inner\" data-element=\"inner\"><h4 data-content-type=\"heading\" data-appearance=\"default\" data-element=\"main\">Social Links</h4><div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\">&lt;a class=\"icon-facebook\" href=\"https://www.facebook.com/ebayluma\"&gt;&lt;/a&gt;\r\n&lt;a class=\"icon-twitter\" href=\"https://twitter.com/thelumastory\"&gt;&lt;/a&gt;\r\n&lt;a class=\"icon-youtube\" href=\"https://www.youtube.com/channel/UCMdGhsvA7obKMxg9ZppXuIA\"&gt;&lt;/a&gt;\r\n&lt;a class=\"icon-pinterest\" href=\"https://www.pinterest.com/TheLUMAStory/\"&gt;&lt;/a&gt;\r\n&lt;a class=\"icon-instagram\" href=\"https://instagram.com/ebay_luma/\"&gt;&lt;/a&gt;</div></div></div>"
         },
         {
@@ -41,7 +41,7 @@
         {
           "store_view_code": "venia_us",
           "title": "Promo Banner",
-          "identifier": "promo_banner",
+          "identifier": "promo-banner",
           "content": "<div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\">&lt;div class=\"promo-banner\"&gt;Add any one accessory to your order for 50% off&lt;/div&gt;</div>"
         },
         {
